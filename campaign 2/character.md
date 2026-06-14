@@ -6,19 +6,20 @@
 
 ## Identity
 - **Name:** **Kaelen "Kael" Voss**
-- **Origin:** prodigy of a **medium-sized town** in the current empire (living world).
-- **Status at story start:** mortally burned saving his love interest from an escaped dragon; body **kept barely alive on life support** (dead-enough-but-recoverable). **Soul sent to the Veil.**
+- **Origin:** prodigy of **Halvern**, a medium-sized town in the current empire (living world).
+- **Love interest:** **Liora Wynn** — also of Halvern (the person he was burned trying to save).
+- **Status at story start:** mortally burned saving Liora from an escaped dragon; body **kept barely alive on life support** (dead-enough-but-recoverable). **Soul sent to the Veil.**
 - **Progression:** **0%** (just arriving in the Veil).
 
 ## Concept
 A mind, not a muscle. Kael wins by **reading a problem until its weak point is obvious** — the crack in the wall, the gap in a ward, the flaw in a creature's pattern — then applying the smallest precise effort there. Dangerous to underestimate, easy to physically overwhelm if you can force the fight to last.
 
-## Personality *(proposed — adjust freely)*
+## Personality *(confirmed)*
 - **Analytical & observant** — narrates the world in terms of how it works and where it breaks.
 - **Calm while thinking, anxious while enduring** — composed when there's a puzzle, rattled by raw attrition.
 - **Pragmatic problem-solver** — prefers cleverness, leverage, and exploits over brute force.
 - **Quietly protective** — the kind of person who runs *toward* the fire for someone he loves (already proven).
-- **Curious to a fault** — the same instinct that makes him brilliant tempts him past safe limits (relevant to the 50% warning).
+- **Arrogant — ignores warnings** — thinks he's better than everyone; dismisses caution and others' advice. He **will** push past the 50% settlement's warning.
 
 ---
 
@@ -57,6 +58,6 @@ Resolution: **d20 + attribute modifier vs DC**. Advantage/disadvantage for situa
 - **Emperor's background essence** → constant passive growth (stronger nearer the palace, within survivable limits).
 
 ## Open / GM notes
-- Personality is a proposal — Kael's voice is the player's to finalize.
-- Love interest's name & the town's name: TBD (can surface in play).
+- **Town:** Halvern (GM-set). **Love interest:** Liora Wynn (GM-set).
 - The Exploiter + Frail combo is the intended core tension: he can crack almost anything *if* he isn't forced to endure.
+- The **Arrogant / ignores-warnings** trait is a deliberate hook for the 50% settlement beat.

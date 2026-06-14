@@ -175,9 +175,9 @@ Two complementary growth vectors:
 - **Remnants of friendly souls** — these are the **same** as the **peaceful settlement of souls** the PC meets at ~50% (who warn against going further). Not a separate group.
 
 ## 7. Starting Plot (the MC's beginning)
-- The **MC** is a **prodigy** from a **medium-sized town**.
-- A **dragon escaped** because a **careless merchant cut corners on safety**, causing a disaster in the town.
-- During the disaster, the MC **tries to save his love interest** and is **heavily burned** in the process.
+- The **MC (Kaelen "Kael" Voss)** is a **prodigy** from **Halvern**, a medium-sized town.
+- A **dragon escaped** because a **careless merchant cut corners on safety**, causing a disaster in Halvern.
+- During the disaster, the MC **tries to save his love interest (Liora Wynn)** and is **heavily burned** in the process.
 - The **dragon is killed**, but the MC is left with a **mortal wound** and is placed on **life support**.
 - The wounds are **too deep to heal**, but he can be **kept barely alive** — i.e. his body is **"dead enough" but still recoverable**: the exact liminal state that sends a soul to the **Veil**.
 - The MC's **soul is sent to the Veil**. He finds himself on a **vast flatland dotted with massive structures**, populated by **spirits/golems he must defeat**.
