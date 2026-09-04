@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:28:35Z
+updated_at: 2026-09-04T14:29:51Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -27,7 +27,7 @@ approved_concept:
     orthodox_beyonder_background:
       provider: Church of the God of Steam and Machinery
       access: The protagonist's father bribed or otherwise improperly induced the church to provide Pathway access and training.
-      protagonist_awareness_of_bribe: null
+      protagonist_awareness_of_bribe: known
     playstyle:
       - preparation-heavy
       - ritualistic magic
