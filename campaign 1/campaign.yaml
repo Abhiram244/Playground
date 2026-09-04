@@ -1,0 +1,36 @@
+schema_version: 1
+campaign_id: campaign-001
+title: null
+status: setup
+created_at: 2026-09-04T13:18:01Z
+updated_at: 2026-09-04T13:18:01Z
+visibility_model: split-player-gm
+approved_concept:
+  inspirations:
+    - Lord of the Mysteries
+    - Warhammer 40,000
+    - homebrew elements
+  setting_frame: academic university-like
+  note: These are creative inputs, not permission to invent setting details yet.
+play_priorities:
+  - preparation
+  - combat and competition
+  - roleplay
+  - romance
+pending_decisions:
+  - player character concept and capabilities
+  - companion control model
+  - starting location and immediate situation
+  - detailed activity balance
+  - resources and advancement
+  - public knowledge versus character discovery
+  - session length, pacing, and recap preference
+  - repository visibility and publication policy
+rules:
+  baseline_max_hp: 15
+  baseline_move_m_per_turn: 5
+  percentage_convention: high-roll
+  baselines_approved: false
+current_session: null
+current_scene: null
+turn_counter: 0
