@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:22:07Z
+updated_at: 2026-09-04T14:26:52Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -14,6 +14,7 @@ approved_concept:
   note: These are creative inputs, not permission to invent setting details yet.
   protagonist:
     family_status: Child of a prominent ducal noble family
+    succession_status: expected future duke
     family_position:
       - powerful
       - wealthy
@@ -62,6 +63,19 @@ approved_concept:
     motivations:
       - prove personal talent and strength
       - demonstrate that success is not merely the result of protection or rescue by the ducal house
+    personality:
+      pride: proud of personal ability
+      noble_status: reserved about being the expected future duke
+      approach: methodical
+      social_strategy: selectively competitive and cooperative
+      accusation_response: becomes defensive when someone claims the ducal house carried him
+    use_of_house_power:
+      default: refuses to use family contacts or authority
+      exception: only as a last resort
+      restraint: uses family power very conservatively even when necessary
+    ritual_secrecy:
+      disclosure: has told no one
+      personal_view: proud of having composed and prepared the successful ritual himself using the book's guidelines
   university:
     model: elite academy
     civic_status: politically autonomous university-city
