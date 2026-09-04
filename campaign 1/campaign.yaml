@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:06:06Z
+updated_at: 2026-09-04T14:22:07Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -30,17 +30,38 @@ approved_concept:
       power_source: blessings invoked from gods
       design_intent: Prepare and create items through ritual and granted power rather than relying only on the protagonist's own spirituality.
     forbidden_knowledge:
-      awareness_level: exposed and investigating, but not an informed adherent
+      awareness_level: exposed without recognizing the material as anti-orthodox; not an informed adherent
       source:
         title: Ordo of the Cosmos
         status: non-orthodox book
         association: Hidden Sage
+        possession: owns and retains the original book
+        apparent_first_impression:
+          - appeared ordinary
+          - presented a list of divine names and introductory instructions
+          - contained no obvious demonic signs or lures
+        protagonist_initial_assumption: ordinary religious or ritual material
       subjects_encountered:
         - honorific names
         - ritual methods
         - knowledge about the universe concealed by orthodox powers
         - the Omnissiah as one of several entities described in the book
       epistemic_status: The book's claims, origin, and reliability have not yet been established as objective truth.
+    prior_ritual:
+      timing: approximately three months before academy entry
+      kind: minor foresight ritual
+      invoked_entity: Snake of Mercury
+      method: Used the book's guidelines and composed a prayer with the entity's honorific name.
+      result: successful
+      information_received: The academy admission process.
+      consequence:
+        - aced the first admission test
+        - qualified for selection independently of ducal family status
+      later_ritual_use: none
+      reason_for_restraint: Had no genuine need and considered it improper to pray to a god merely for experimentation or amusement.
+    motivations:
+      - prove personal talent and strength
+      - demonstrate that success is not merely the result of protection or rescue by the ducal house
   university:
     model: elite academy
     civic_status: politically autonomous university-city
