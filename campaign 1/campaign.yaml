@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:34:26Z
+updated_at: 2026-09-04T14:36:05Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -37,6 +37,13 @@ approved_concept:
       - ancient history and languages
       - investigation and deduction
       - ritual theory and symbolic correspondences
+    combat_approach:
+      model: mixed
+      primary_specialty:
+        - traps
+        - seals
+        - battlefield control
+      secondary_methods: pending starting-equipment design
     ritual_crafting:
       power_source: blessings invoked from gods
       design_intent: Prepare and create items through ritual and granted power rather than relying only on the protagonist's own spirituality.
