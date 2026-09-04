@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T13:34:29Z
+updated_at: 2026-09-04T14:01:38Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -20,6 +20,15 @@ approved_concept:
       - financially stable
       - not part of the royal family
     central_emphasis: The protagonist's standing should come primarily from personal strength as a Beyonder, not the power of the house.
+    academy_status: newly enrolled
+    pathway: Paragon
+    sequence: 8
+    playstyle:
+      - preparation-heavy
+      - ritualistic magic
+    ritual_crafting:
+      power_source: blessings invoked from gods
+      design_intent: Prepare and create items through ritual and granted power rather than relying only on the protagonist's own spirituality.
   university:
     model: elite academy
     civic_status: politically autonomous university-city
@@ -32,13 +41,15 @@ approved_concept:
       domain: super-advanced technology
       orthodoxy: non-orthodox
       faith_status: outlawed
+      relationship_to_pathway: The pursuit of technology inherent in the Paragon Pathway made manifest.
+      separate_pathway_or_sequence: false
 play_priorities:
   - preparation
   - combat and competition
   - roleplay
   - romance
 pending_decisions:
-  - protagonist's starting Pathway, Sequence, and capabilities
+  - protagonist's detailed capabilities and ritual-crafting rules
   - companion control model
   - starting location and immediate situation
   - detailed activity balance
