@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:01:38Z
+updated_at: 2026-09-04T14:06:06Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -29,6 +29,18 @@ approved_concept:
     ritual_crafting:
       power_source: blessings invoked from gods
       design_intent: Prepare and create items through ritual and granted power rather than relying only on the protagonist's own spirituality.
+    forbidden_knowledge:
+      awareness_level: exposed and investigating, but not an informed adherent
+      source:
+        title: Ordo of the Cosmos
+        status: non-orthodox book
+        association: Hidden Sage
+      subjects_encountered:
+        - honorific names
+        - ritual methods
+        - knowledge about the universe concealed by orthodox powers
+        - the Omnissiah as one of several entities described in the book
+      epistemic_status: The book's claims, origin, and reliability have not yet been established as objective truth.
   university:
     model: elite academy
     civic_status: politically autonomous university-city
