@@ -3,7 +3,7 @@ campaign_id: campaign-001
 title: null
 status: setup
 created_at: 2026-09-04T13:18:01Z
-updated_at: 2026-09-04T14:36:05Z
+updated_at: 2026-09-04T14:37:37Z
 visibility_model: split-player-gm
 approved_concept:
   inspirations:
@@ -47,6 +47,19 @@ approved_concept:
     ritual_crafting:
       power_source: blessings invoked from gods
       design_intent: Prepare and create items through ritual and granted power rather than relying only on the protagonist's own spirituality.
+      requirements:
+        - a designed effect
+        - a correctly selected honorific target
+        - appropriate symbolic materials
+        - preparation time
+      prepared_effect_limits:
+        - explicit charges or duration
+        - available time
+        - available materials
+        - carried equipment
+        - required ritual conditions
+        - risk of attracting attention
+      improvised_use: possible but substantially weaker than prepared use
     forbidden_knowledge:
       awareness_level: exposed without recognizing the material as anti-orthodox; not an informed adherent
       source:
